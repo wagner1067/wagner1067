@@ -2,7 +2,7 @@
 
 - 🔭 Hoje Trabalho numa Empresa de Telecomunicação
 - 🌱 Estou cursando Curso da Escola DNC
-- 📫 Contate-me no Email: barra-wag@hotmail.com
+- 📫 Contate-me no Email: contato.wagner.jesus@hotmail.com
 
  <div>
   <a href="https://github.com/wagner1067">
@@ -16,7 +16,6 @@
   <img align="center" alt="Wagner-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Wagner-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Wagner-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Wagner-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Wagner-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
