@@ -1,6 +1,6 @@
 ### Olá! Eu sou Wagner Oliveira! 👋
 
-- 🔭 Hoje Trabalho numa Empresa de Telecomunicação
+- 🔭 Hoje Trabalho em uma Empresa de Telecomunicação
 - 🌱 Estou cursando Curso da Escola DNC
 - 📫 Contate-me no Email: contato.wagner.jesus@hotmail.com
 
