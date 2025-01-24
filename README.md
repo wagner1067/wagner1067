@@ -42,7 +42,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/wagner1067/wagner1067/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/wagner1067/wagner1067/output/snake.svg" />
 
 ###
 
