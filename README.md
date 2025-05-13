@@ -1,6 +1,6 @@
 ### Olá! Eu sou Wagner Oliveira! 👋
 
-- 🔭 Hoje Trabalho em uma Empresa de Telecomunicação
+- 🌱 Estou cursando Análise e Desenvolvimento de Sistemas na Descomplica
 - 🌱 Estou cursando Curso da Escola DNC
 - 📫 Contate-me no Email: contato.wagner.jesus@hotmail.com
 
